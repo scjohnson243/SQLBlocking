@@ -1,0 +1,9 @@
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\bin\Debug\BlockingSQL.exe.config
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\bin\Debug\BlockingSQL.exe
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\bin\Debug\BlockingSQL.pdb
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\obj\Debug\BlockingSQL.csprojResolveAssemblyReference.cache
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\obj\Debug\BlockingSQL.Form1.resources
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\obj\Debug\BlockingSQL.Properties.Resources.resources
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\obj\Debug\BlockingSQL.csproj.GenerateResource.Cache
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\obj\Debug\BlockingSQL.exe
+c:\users\stevenj\documents\visual studio 2015\Projects\BlockingSQL\BlockingSQL\obj\Debug\BlockingSQL.pdb
